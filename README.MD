@@ -1,10 +1,10 @@
 <!-- profile view count -->
-<img align="right" src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&pause=1000&width=435&lines=DarkDevWorld" alt="Typing SVG">
+<img align="right" src="https://komarev.com/ghpvc/?username=DarkDevWorld">
 
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Gaurav Kumar Yadav!;&center=true&font=Righteous&size=35">
+     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&width=435&lines=Hi+There!%F0%9F%91%8B;Myself+Gaurav!" alt="Typing SVG" />
   </a>
 </h1>
 
