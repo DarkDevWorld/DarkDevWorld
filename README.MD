@@ -1,5 +1,5 @@
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=DarkDevWorld">
+<img align="right" src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&pause=1000&width=435&lines=DarkDevWorld" alt="Typing SVG">
 
 <!-- introduction -->
 <h1 align="center">
